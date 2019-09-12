@@ -1,8 +1,5 @@
 import folium
 import pandas
-from colorama import Fore, Back, Style, init
-
-init()
 
 
 def volcanos():
